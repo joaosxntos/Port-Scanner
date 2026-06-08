@@ -1,3 +1,5 @@
+## Port Scanner
+
 O Port Scanner é uma ferramenta de recolha de informação de rede desenvolvida em Python.
 
 O programa permite:
@@ -47,3 +49,11 @@ Criação de relatórios em:
 * TXT
 * JSON
 * HTML
+
+## Aviso Legal e Ético
+
+Esta ferramenta foi desenvolvida exclusivamente para fins académicos e de aprendizagem no âmbito da unidade curricular de Programação Aplicada à Cibersegurança.
+
+A sua utilização deve ser limitada a redes, sistemas ou equipamentos para os quais exista autorização explícita do proprietário ou administrador.
+
+O autor não se responsabiliza por qualquer utilização indevida da aplicação em ambientes não autorizados.
