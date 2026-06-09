@@ -27,7 +27,7 @@ cd Port-Scanner
 │   ├── common_ports.py
 │   ├── report.py
 │   └── scanner.py
-├── output/
+├── relatorios/
 ├── common_ports.json
 ├── main.py
 ├── README.md
