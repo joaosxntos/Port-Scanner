@@ -8,7 +8,7 @@ def save_results(results, scan_name):
     """
         
     base_dir = os.path.dirname(os.path.dirname(__file__))
-    output_dir = os.path.join(base_dir, "relatorios")
+    output_dir = os.path.join(base_dir, "reports")
     os.makedirs(output_dir, exist_ok=True)
 
     timestamp = datetime.now().strftime("%Y-%m-%d_%H-%M-%S")
